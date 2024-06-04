@@ -2,4 +2,4 @@ Pyrogram
 TgCrypto
 python-dotenv
 Flask
-
+gunicorn
