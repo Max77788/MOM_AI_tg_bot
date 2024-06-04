@@ -1,3 +1,2 @@
 Pyrogram
-os
-dotenv
+python-dotenv
