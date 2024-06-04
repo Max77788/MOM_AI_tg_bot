@@ -17,5 +17,3 @@ async def get_chat_id(client, message):
     await message.reply('The code to insert:')
     await message.reply(f'{chat_id}')
 app_tg.run()
-
-
